@@ -38,7 +38,7 @@ Upon completing the lab, you will know how to:
 ### Step 4.  Select `Git`.
 > <img src="https://raw.githubusercontent.com/Davin-IBM/Proof-of-Technology/master/DSX/Lab-3/images/RStudio-select-git-project.png"/>
 
-### Step 5.  Fill in git repository details using the URL `https://github.com/Davin-IBM/Proof-of-Technology` and press `Create Project`.
+### Step 5.  Fill in git repository details using the URL `https://github.com/jpatter/Proof-of-Technology` and press `Create Project`.
 > <img src="https://raw.githubusercontent.com/Davin-IBM/Proof-of-Technology/master/DSX/Lab-3/images/RStudio-git-project.png"/>
 
 After the project gets created, you'll see a screen similar to the following:
