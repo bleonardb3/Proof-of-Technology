@@ -58,7 +58,7 @@ __NOTE__: If you already have a DSX account, please skip to __Step 2__.
 
 ### Step 2. Create a project
 
-1. Click on the left hand side "hamburger" icon and then click on My Projects to see a list of your projects. You should only see a default project.
+1. Click on Projects > View All Projects to see a list of your projects. You should only see a default project.
 
  >  <img src="https://github.com/IBMDataScience/wow-lab-to-production/blob/master/images/my-projects.png?raw=true"/>
 
