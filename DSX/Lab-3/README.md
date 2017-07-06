@@ -24,7 +24,7 @@ Upon completing the lab, you will know how to:
 
 ## Instructions:
 
-### Step 1.  Log into your [http://datascience.ibm.com/](http://datascience.ibm.com/) account, then click the hamburger icon in the top left and select RStudio.
+### Step 1.  Log into your [http://datascience.ibm.com/](http://datascience.ibm.com/) account, then click Tools in the top menu bar and select RStudio.
 
 > <img src="https://raw.githubusercontent.com/Davin-IBM/Proof-of-Technology/master/DSX/Lab-3/images/RStudio-select.png"/>
 
@@ -48,7 +48,7 @@ After the project gets created, you'll see a screen similar to the following:
 ### Step 6.  In the files pane in the lower right of the RStudio IDE, click `DSX`, then click `Lab-3`.
 > <img src="https://raw.githubusercontent.com/Davin-IBM/Proof-of-Technology/master/DSX/Lab-3/images/RStudio-lab3-files.png"/>
 
-### Step 7.  Click the `connection.R` file and fill in your dashDB connection details.
+### Step 7.  Click the `connection.R` file and fill in your dashDB connection details.   You can find these from one of the previous labs.   Don't forget to set vetting.table to 'FEMALE_HUMAN_TRAFFICKING'.   Save the file.
 > <img src="https://raw.githubusercontent.com/Davin-IBM/Proof-of-Technology/master/DSX/Lab-3/images/RStudio-lab3-connection.png"/>
 
 ### Step 8.  Click the `dashConnectAndInteractInR.R` file in the files pane in the lower right of the RStudio IDE and run the cells in sequence from top to bottom in the notebook using the `Run current chunk` (green triangle) button in the top right of each cell.
@@ -59,10 +59,10 @@ Consider this notebook your *data playground*.  This is the place where you can 
 ### Step 9.  Click the `app.R` file in the files pane in the lower right of the RStudio IDE
 > <img src="https://raw.githubusercontent.com/Davin-IBM/Proof-of-Technology/master/DSX/Lab-3/images/RStudio-lab3-shiny-app.png"/>
 
-### Step 10.  Click the `Run App` (green triangle) in the top right of the main panel to run the app.  The app will appear in the Viewer pane in the bottom right corner of the IDE.
+### Step 10.  Click the `Run App` (green triangle) in the top right of the main panel to run the app.  The app should appear in the Viewer pane in the bottom right corner of the IDE.  If it does not, select the little black downward pointing triangle and set to Run in Viewer Pane.
 > <img src="https://raw.githubusercontent.com/Davin-IBM/Proof-of-Technology/master/DSX/Lab-3/images/RStudio-lab3-app-viewer.png"/>
 
-### Step 11.  Click the little black downward pointing triangle next to the  `Run App` (green triangle) in the top right of the main panel to run the app in another browser window.
+### Step 11.  Click the little black downward pointing triangle next to the  `Run App` (green triangle) in the top right of the main panel to run the app in another browser window (Run External).
 > <img src="https://raw.githubusercontent.com/Davin-IBM/Proof-of-Technology/master/DSX/Lab-3/images/RStudio-lab3-app-external.png"/>
 
 ### Step 12.  In the running app, click on some of the rows in the table and vet some of the records.
