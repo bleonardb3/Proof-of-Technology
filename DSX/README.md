@@ -54,13 +54,13 @@ __NOTE__: If you already have a DSX account, please skip to __Step 2__.
 
  > You are now in the Data Science Experience landing page. Your environment is automatically set up with one Apache Spark instance and 5 GB of object storage. From here you can explore any of the tutorials, videos, sample notebooks, totorials or articles in the community.
 
->  <img src="https://raw.githubusercontent.com/jpatter/Proof-of-Technology/master/DSX/images/landing.png?raw=true"/>
+>  <img src="https://raw.githubusercontent.com/jpatter/Proof-of-Technology/master/DSX/images/landing.png"/>
 
 ### Step 2. Create a project
 
 1. Click on Projects > View All Projects to see a list of your projects. You should only see a default project.
 
- >  <img src="https://raw.githubusercontent.com/jpatter/Proof-of-Technology/master/DSX/images/my-projects.png?raw=true"/>
+ >  <img src="https://raw.githubusercontent.com/jpatter/Proof-of-Technology/master/DSX/images/my-projects.png"/>
 
 2. Click on the create project icon on the top right of the project list.
 
