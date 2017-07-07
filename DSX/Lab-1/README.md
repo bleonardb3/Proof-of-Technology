@@ -19,9 +19,9 @@ Upon completing the lab, you will know how to:
 
 ## Instructions:
 
-### Step 1.  Log into your [DSX](http://datascience.ibm.com/) account, then click the hamburger icon in the top left and select `My Projects`, then select the project you created at the beginning of this proof of technology.
+### Step 1.  Log into your [DSX](http://datascience.ibm.com/) account, then click Projects in the top menu bar then select the project you created at the beginning of this proof of technology.
 
-> <img src="https://raw.githubusercontent.com/Davin-IBM/Proof-of-Technology/master/DSX/Lab-1/images/DSX-open-project.png"/>
+> <img src="https://raw.githubusercontent.com/jpatter/Proof-of-Technology/master/DSX/Lab-1/images/DSX-open-project.png"/>
 
 ### Step 2.  Click the `add notebooks` link in the top right of your project pane.
 
@@ -29,7 +29,7 @@ Upon completing the lab, you will know how to:
 
 ### Step 3.  Create the notebook.
 
-> <img src="https://raw.githubusercontent.com/Davin-IBM/Proof-of-Technology/master/DSX/Lab-1/images/DSX-create-notebook-from-url.png"/>
+> <img src="https://raw.githubusercontent.com/jpatter/Proof-of-Technology/master/DSX/Lab-1/images/DSX-create-notebook-from-url.png"/>
 
 1. Click the `From URL` tab under `Create Notebook`.
 1. Give the notebook a name in the `Name` field, for example `Connect and Interact with dashDB` and optionally you can give it a description.
