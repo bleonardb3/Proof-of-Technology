@@ -26,7 +26,7 @@ Upon completing the lab, you will know how to:
 
 ### Step 1.  Log into your [http://datascience.ibm.com/](http://datascience.ibm.com/) account, then click Tools in the top menu bar and select RStudio.
 
-> <img src="https://raw.githubusercontent.com/Davin-IBM/Proof-of-Technology/master/DSX/Lab-3/images/RStudio-select.png"/>
+> <img src="https://raw.githubusercontent.com/jpatter/Proof-of-Technology/master/DSX/Lab-3/images/RStudio-select.png"/>
 
 ### Step 2.  Create a new project by clicking on `File` > `New Project`.
 
