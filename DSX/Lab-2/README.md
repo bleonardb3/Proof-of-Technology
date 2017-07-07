@@ -33,10 +33,10 @@ Upon completing the lab, you will know how to:
 
 ### Step 5.  In the Notebook URL field, use `https://raw.githubusercontent.com/jpatter/Proof-of-Technology/master/DSX/Lab-2/Categorizing-Vetted-Data.ipynb`
 
-<img src="https://raw.githubusercontent.com/jpatter/Proof-of-Technology/master/DSX/images/lab2-git.png" height="150"/>
+<img src="https://raw.githubusercontent.com/jpatter/Proof-of-Technology/master/DSX/images/lab2-git.png"/>
 
 ### Step 6.  Ensure that there is a `Spark Service` selected, then click the `Create Notebook` button on the bottom right of the screen.
 
 ### Step 7.  Follow the instructions in the notebook.
 
-<img src="https://raw.githubusercontent.com/jpatter/Proof-of-Technology/master/DSX/images/lab2-notebook.png" height="150"/>
+<img src="https://raw.githubusercontent.com/jpatter/Proof-of-Technology/master/DSX/images/lab2-notebook.png"/>
