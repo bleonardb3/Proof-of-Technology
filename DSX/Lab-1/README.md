@@ -16,4 +16,4 @@ Upon completing the lab, you will:
 
 ## Instructions:
 
-### Step 1.  Follow the instructions in [Instructions]https://github.com/bleonardb3/Proof-of-Technology/blob/master/DSX/Lab-1/Instructions.pdf
+### Step 1.  Follow the instructions in [Instructions](https://github.com/bleonardb3/Proof-of-Technology/blob/master/DSX/Lab-1/Instructions.pdf)
