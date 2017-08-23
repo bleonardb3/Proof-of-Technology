@@ -8,7 +8,7 @@
 
 [<img src="https://raw.githubusercontent.com/Davin-IBM/Proof-of-Technology/master/DSX/images/RStudio2.png"/>](https://www.rstudio.com/) [<img src="https://raw.githubusercontent.com/Davin-IBM/Proof-of-Technology/master/DSX/images/shiny.png"/>](https://shiny.rstudio.com/)
 
-The labs will use various features of IBM’s Data Science Experience (DSX) and BlueMix cloud services to demonstrate how to train and evaluate a model as well as how to display the result of a modeling effort in a a consumable manner. Participants will be led through three labs. Lab 1 is a standalone lab. Lab2 and Lab3 must be completed in order as Lab3 builds on the work done in Lab2. 
+The labs will use various features of IBM’s Data Science Experience (DSX) and BlueMix cloud services to demonstrate how to train and evaluate a model as well as how to display the result of a modeling effort in a a consumable manner. Participants will be led through three labs. Lab-1 is a standalone lab. Lab-2 and Lab-3 must be completed in order as Lab-3 builds on the work done in Lab-2. 
 
 1. [Lab-1](Lab-1) - The first lab will focus on the Watson Machine Learning GUI to train, evaluate, and deploy a Watson Machine Learning model using the BikeShare and weather data.  
 
