@@ -27,7 +27,7 @@ Upon completing the lab, you will know how to:
 ### Step 2. Click on the `Data Assets` tab and then click on `Connections` and then `Create Connection` if the Files/Connections dialog is open. Otherwise, click on `+add data assets`, and then click on `Connections` and then `Create Connection`. 
 <img src="https://raw.githubusercontent.com/bleonardb3/Proof-of-Technology/master/DSX/Lab-2/Images/Add Data Assets.png"/>
 
-### Step 3. Enter `Female_Human_Trafficking` for the Name, optionally enter a Description, click on `External` and then select `dashDB` as the service. Values for the rest of the parameters will be provided in class. Then click on `Create`. 
+### Step 3. In the New Connection page, enter `Female_Human_Trafficking` for the Name, optionally enter a Description, click on `External` and then select `dashDB` as the external service. Values for the rest of the parameters will be provided in class. Then click on `Create`. 
 <img src="https://raw.githubusercontent.com/bleonardb3/Proof-of-Technology/master/DSX/Lab-2/Images/Create New Connection.png"/>
 
 ### Step 4. Click on the `Analytics Assets` tab.
