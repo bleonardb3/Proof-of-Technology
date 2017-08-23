@@ -8,11 +8,11 @@
 
 [<img src="https://raw.githubusercontent.com/Davin-IBM/Proof-of-Technology/master/DSX/images/RStudio2.png"/>](https://www.rstudio.com/) [<img src="https://raw.githubusercontent.com/Davin-IBM/Proof-of-Technology/master/DSX/images/shiny.png"/>](https://shiny.rstudio.com/)
 
-Use IBM’s Data Science Experience (DSX) and BlueMix cloud services to create a working cloud-based application from start to finish.  Participants will be led through a series of three labs that build upon one another so it is important that they are completed in order.
+The labs will use various features of IBM’s Data Science Experience (DSX) and BlueMix cloud services to demonstrate how to train and evaluate a model as well as how to display the result of a modeling effort in a a consumable manner. Participants will be led through three labs. Lab 1 is a standalone lab. Lab2 and Lab3 must be completed in order as Lab3 builds on the work done in Lab2. 
 
-1. [Lab-1](Lab-1) - The first lab will begin with loading raw delimited data into dashDB for Analytics and interacting with that data from a Jupyter notebook in DSX with python.
+1. [Lab-1](Lab-1) - The first lab will focus on the Watson Machine Learning GUI to train, evaluate, and deploy a Watson Machine Learning model using the BikeShare and weather data.  
 
-1. [Lab-2](Lab-2) - The second lab will leverage Spark machine learning (SparkML) on the loaded data to create categorical predictions using pyspark and a supervised learning model and store the results back to the database.
+1. [Lab-2](Lab-2) - The second lab will leverage Spark machine learning (SparkML) on data stored in a relational database to create categorical predictions using pyspark and a supervised learning model and store the results back to the database.
 
 1. [Lab-3](Lab-3) - The final lab will guide participants in creating an R notebook and Shiny UI in DSX using RStudio.
 
