@@ -8,7 +8,7 @@ In this lab, you will use IBM's Watson Machine Learning GUI to train, evaluate, 
 
 ## Objectives:
 
-Upon completing the lab, you will know how to:
+Upon completing the lab, you will:
 
 1. Become familiar with the Watson Machine Learning GUI.  
 2. Train/Evaluate a model
