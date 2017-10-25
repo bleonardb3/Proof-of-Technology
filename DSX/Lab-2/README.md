@@ -62,10 +62,10 @@ In this lab, you will primarily be working in the Jupyter notebook environment u
 <img src="https://raw.githubusercontent.com/bleonardb3/Proof-of-Technology/master/DSX/Lab-2/Images/Projects Tab.png"/>
 
 ### Step 11.  Click the `New notebook asset` located at the top of the Notebook Assets section. 
-<img src="https://raw.githubusercontent.com/bleonardb3/Proof-of-Technology/master/DSX/Lab-2/images/New Notebook.png">
+<img src="https://raw.githubusercontent.com/bleonardb3/Proof-of-Technology/master/DSX/Lab-2/Images/New Notebook.png">
 
 ### Step 12.  Click the `From URL` tab under `Create Notebook`. Give the notebook a name in the `Name` field, for example `Machine learning with SparkML` and optionally you can give it a description. In the Notebook URL field, use `https://github.com/bleonardb3/Proof-of-Technology/blob/master/DSX/Lab-2/Titanic%2BStudent%2BNotebook.ipynb`. Ensure that there is a `Spark Service` selected, then click the `Create Notebook` button on the bottom right of the screen.
-<img src="https://raw.githubusercontent.com/bleonardb3/Proof-of-Technology/master/DSX/Lab-2/images/Enter Notebook Data.png">
+<img src="https://raw.githubusercontent.com/bleonardb3/Proof-of-Technology/master/DSX/Lab-2/Images/Enter Notebook Data.png">
 
 ### Step 15.  Follow the instructions in the notebook.
-<img src="https://raw.githubusercontent.com/bleonardb3/Proof-of-Technology/master/DSX/Lab-2/images/Notebook Display.png"/>
+<img src="https://raw.githubusercontent.com/bleonardb3/Proof-of-Technology/master/DSX/Lab-2/Images/Notebook Display.png"/>
