@@ -8,11 +8,11 @@
 
 [<img src="https://raw.githubusercontent.com/Davin-IBM/Proof-of-Technology/master/DSX/images/RStudio2.png"/>](https://www.rstudio.com/) [<img src="https://raw.githubusercontent.com/Davin-IBM/Proof-of-Technology/master/DSX/images/shiny.png"/>](https://shiny.rstudio.com/)
 
-Use IBM’s Data Science Experience (DSX) and Bluemix cloud services to create a working cloud-based application from start to finish.  Participants will be led through a series of three labs that build upon one another so it is important that they are completed in order.
+Use IBM’s Data Science Experience (DSX) and Bluemix cloud services to create machine learning models and applications. Participants will be led through three labs. Each lab will use the Titanic data set, a common one used in Kaggle competitions. The first lab will be standalone. The second and third labs build upon one another so it is important that they are completed in order.
 
-1. [Lab-1](Lab-1) - The first lab will begin with loading raw delimited data into DB2 Warehouse for Cloud and interacting with that data from a Jupyter notebook in DSX with python.
+1. [Lab-1](Lab-1) - The first lab will use the Watson Machine Learning capability to create a machine learning model based on the Titanic data set. The model will be deployed in Bluemix, and an application will be built that uses the deployed machine learning model to predict survivability given passenger characteristics. 
 
-1. [Lab-2](Lab-2) - The second lab will leverage Spark machine learning (SparkML) on the loaded data to create categorical predictions using pyspark and a supervised learning model and store the results back to the database.
+1. [Lab-2](Lab-2) - The second lab will leverage Spark machine learning (SparkML) in a Jupyter notebook to predict survivability using pyspark and a supervised learning model and store the results back to a database hosted in Bluemix. 
 
 1. [Lab-3](Lab-3) - The final lab will guide participants in creating an R notebook and Shiny UI in DSX using RStudio.
 
