@@ -10,7 +10,7 @@
 
 Use IBM’s Data Science Experience (DSX) and Bluemix cloud services to create machine learning models and applications. Participants will be led through three labs. Each lab will use the Titanic data set, a common one used in Kaggle competitions. The first lab will be standalone. The second and third labs build upon one another so it is important that they are completed in order.
 
-1. [Lab-1](Lab-1) - The first lab will use the Watson Machine Learning capability to create a machine learning model based on the Titanic data set. The model will be deployed in Bluemix, and an application will be built that uses the deployed machine learning model to predict survivability given passenger characteristics. 
+1. [Lab-1]([https://github.com/bleonardb3/Proof-of-Technology/tree/master/DSX/Lab-1) - The first lab will use the Watson Machine Learning capability to create a machine learning model based on the Titanic data set. The model will be deployed in Bluemix, and an application will be built that uses the deployed machine learning model to predict survivability given passenger characteristics. 
 
 1. [Lab-2](Lab-2) - The second lab will leverage Spark machine learning (SparkML) in a Jupyter notebook to predict survivability using pyspark and a supervised learning model and store the results back to a database hosted in Bluemix. 
 
