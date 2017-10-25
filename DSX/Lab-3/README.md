@@ -45,7 +45,7 @@ After the project gets created, you'll see a screen similar to the following:
 ### Step 6.  In the files pane in the lower right of the RStudio IDE, click `DSX`, then click `Lab-3`.
 > <img src="https://raw.githubusercontent.com/bleonardb3/Proof-of-Technology/master/DSX/Lab-3/images/RStudio-lab3-files.png"/>
 
-### Step 7.  Click the `connection.R` file and fill in your dashDB connection details.   You can find these from one of the previous labs.   Don't forget to set the value for the titanic.table to TITANIC_RESULTS'.   Save the file.
+### Step 7.  Click the `connection.R` file and fill in your dashDB connection details.   You can find these from one of the previous labs.   Don't forget to set the value for the titanic.table to TITANIC_PREDICTIONS'.   Save the file.
 > <img src="https://raw.githubusercontent.com/bleonardb3/Proof-of-Technology/master/DSX/Lab-3/images/RStudio-lab3-connection.png"/>
 
 ### Step 8.  Click the `dashConnectAndInteractInR.Rmd` file in the files pane in the lower right of the RStudio IDE and run the cells in sequence from top to bottom in the notebook using the `Run current chunk` (green triangle) button in the top right of each cell.
