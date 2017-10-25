@@ -28,10 +28,27 @@ Upon completing the lab, you will know how to:
 ### Step 2. Click on the `Data Services` tab and then click on `Services`. 
 <img src="https://raw.githubusercontent.com/bleonardb3/Proof-of-Technology/master/DSX/Lab-2/Images/Data Services.png"/>
 
-### Step 3. In the New Connection page, enter `Female_Human_Trafficking` for the Name, optionally enter a Description, click on `External` and then select `dashDB` as the external service. Values for the rest of the parameters will be provided in class. Then click on `Create`. 
-<img src="https://raw.githubusercontent.com/bleonardb3/Proof-of-Technology/master/DSX/Lab-2/Images/Create New Connection.png"/>
+### Step 3. Click on `Create New Service`. 
+<img src="https://raw.githubusercontent.com/bleonardb3/Proof-of-Technology/master/DSX/Lab-2/Images/Create New Service.png"/>
 
-### Step 4. Click on the `Analytics Assets` tab.
+### Step 4. Click on the `DB2 Warehouse on Cloud'.
+<img src="https://raw.githubusercontent.com/bleonardb3/Proof-of-Technology/master/DSX/Lab-2/Images/DB2 Warehouse on Cloud.png"/>
+
+### Step 5 - Click on the `Entry Plan`
+<img src="https://raw.githubusercontent.com/bleonardb3/Proof-of-Technology/master/DSX/Lab-2/Images/Select Entry Level.png"/>
+
+### Step 6.  Scroll down and then click on `Create dashDB`. Note dashDB was a previous name for DB2 Warehouse on Cloud. 
+<img src="https://raw.githubusercontent.com/bleonardb3/Proof-of-Technology/master/DSX/Lab-2/Images/Press Create dashDB.png"/>
+
+### Step 7.  Select the appropriate `space`. Enter a name for the service (e.g. Titanic_DB). Click on the `Confirm` button.  
+<img src="https://raw.githubusercontent.com/bleonardb3/Proof-of-Technology/master/DSX/Lab-2/Images/Confirm Creation.png"/>
+
+### Step 8.  Click on the `...` to the right of the service just created, and then click on `Create Connection`. 
+<img src="https://raw.githubusercontent.com/bleonardb3/Proof-of-Technology/master/DSX/Lab-2/Images/Create Connection.png"/>
+
+### Step 9. Enter a `Name` for the connection, optionally enter a `Description`, select `Data Service` for the `Service Category`, select the `Service instance`, and select `BLUDB` for the database and click on `Create` to create the connection. 
+<img src="https://raw.githubusercontent.com/bleonardb3/Proof-of-Technology/master/DSX/Lab-2/Images/Create Connection.png"/>
+
 
 ### Step 5.  Click the `add notebooks` link in the top right of your project pane.
 <img src="https://raw.githubusercontent.com/bleonardb3/Proof-of-Technology/master/DSX/images/lab2-addnotebook.png" height="150"/>
