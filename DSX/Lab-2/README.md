@@ -58,6 +58,8 @@ In this lab, you will primarily be working in the Jupyter notebook environment u
 ### Step 9. Enter a `Name` for the connection, optionally enter a `Description`, select `Data Service` for the `Service Category`, select the `Service instance`, and select `BLUDB` for the Database and click on `Create` to create the connection. 
 <img src="https://raw.githubusercontent.com/bleonardb3/Proof-of-Technology/master/DSX/Lab-2/Images/Create Connection.png"/>
 
+### Step 10. Return to the project environment by clicking on the `Projects` tab and then clicking on the project that you set up. 
+
 
 ### Step 10.  Click the `add notebooks` link in the top right of your project pane.
 <img src="https://raw.githubusercontent.com/bleonardb3/Proof-of-Technology/master/DSX/images/lab2-addnotebook.png" height="150"/>
@@ -66,7 +68,7 @@ In this lab, you will primarily be working in the Jupyter notebook environment u
 
 ### Step 12.  Give the notebook a name in the `Name` field, for example `Machine learning with SparkML` and optionally you can give it a description.
 
-### Step 13.  In the Notebook URL field, use `https://raw.githubusercontent.com/bleonardb3/Proof-of-Technology/master/DSX/Lab-2/ Titanic%2BStudent%2BNotebook.ipynb`
+### Step 13.  In the Notebook URL field, use `https://github.com/bleonardb3/Proof-of-Technology/blob/master/DSX/Lab-2/Titanic%2BStudent%2BNotebook.ipynb`
 
 <img src="https://raw.githubusercontent.com/bleonardb3/Proof-of-Technology/master/DSX/images/lab2-git.png"/>
 
