@@ -25,8 +25,8 @@ Upon completing the lab, you will know how to:
 
 ### Step 1.  Log into your [DSX](http://datascience.ibm.com/) account, then click Projects in the top menubar and select the project you created at the beginning of this proof of technology.
 
-### Step 2. Click on the `Data Assets` tab and then click on `Connections` and then `Create Connection` if the Files/Connections dialog is open. Otherwise, click on `+add data assets`, and then click on `Connections` and then `Create Connection`. 
-<img src="https://raw.githubusercontent.com/bleonardb3/Proof-of-Technology/master/DSX/Lab-2/Images/Add Data Assets.png"/>
+### Step 2. Click on the `Data Services` tab and then click on `Services`. 
+<img src="https://raw.githubusercontent.com/bleonardb3/Proof-of-Technology/master/DSX/Lab-2/Images/Data Services.png"/>
 
 ### Step 3. In the New Connection page, enter `Female_Human_Trafficking` for the Name, optionally enter a Description, click on `External` and then select `dashDB` as the external service. Values for the rest of the parameters will be provided in class. Then click on `Create`. 
 <img src="https://raw.githubusercontent.com/bleonardb3/Proof-of-Technology/master/DSX/Lab-2/Images/Create New Connection.png"/>
