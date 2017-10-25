@@ -16,7 +16,7 @@ Upon completing the lab, you will know how to:
 1. Use ggplot2 to create bar plots of several of the columns in an R dataframe
 1. Close the database connection
 1. Leverage shiny to create and run a simple web application
-1. Interact with the shiny web web application by runnng it externally
+1. Interact with the shiny web application by runnng it externally
 
 
 ## Instructions:
