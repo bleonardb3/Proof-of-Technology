@@ -17,4 +17,6 @@ Upon completing the lab, you will:
 
 ## Instructions:
 
-### Step 1.  Please click on the link and then press the Download button to download the instructions to your machine. [Instructions](https://github.com/bleonardb3/Proof-of-Technology/blob/master/DSX/Lab-1/Instructions.pdf). 
+### Step 1.  Please click on the link and then press the Download button to download the instructions to your machine.
+
+[Instructions](https://github.com/bleonardb3/Proof-of-Technology/blob/master/DSX/Lab-1/Instructions.pdf). 
