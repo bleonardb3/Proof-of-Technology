@@ -4,21 +4,22 @@
 
 [<img src="https://raw.githubusercontent.com/bleonardb3/Proof-of-Technology/master/DSX/images/jupyter.png" height="150"/>](http://jupyter.org/index.html) [<img src="https://raw.githubusercontent.com/bleonardb3/Proof-of-Technology/master/DSX/images/spark.png" height="150"/>](http://spark.apache.org/)
 
-In this lab, you will use SparkML in IBM Data Science Experience to run generated travel data through a machine learning algorithm, automatically tune the algorithm, and load the data into a dashDB database.
+In this lab, you will use SparkML in IBM Data Science Experience to do data exploration and train and cross-validate a machine learning algorithm to predict survivability based on the Titanic dataset. The results will be loaded into a DB2 Warehouse on Cloud database for use in the next lab.  
 
 ## Objectives:
 Upon completing the lab, you will know how to:
 
 
-1. Connect to a database and read data used for machine learning.
-2. Identify labels and transform data.
-3. Conduct feature engineering for algorithm data.
-4. Declare a machine learning model.
-5. Setup the Pipeline for data transofms and training.
-6. Train the data.
-7. Show and evaluate machine learning results.
-8. Automatically tune machine learning results.
-9. Score data and load  into a new table in dashDB.
+1. Create a DB2 Warehouse on Cloud service.
+1. Create a connection to the DB2 Warehouse on Cloud service
+1. Explore the Titanic dataset using seaborn.
+1. Conduct feature engineering for algorithm data.
+1. Declare a machine learning model.
+1. Setup the Pipeline for data transofms and training.
+1. Train the data.
+1. Show and evaluate machine learning results.
+1  Tune machine learning results.
+1. Score data and load  into a new table in dashDB.
 
 ## Instructions:
 
