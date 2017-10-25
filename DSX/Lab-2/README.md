@@ -4,7 +4,7 @@
 
 [<img src="https://raw.githubusercontent.com/bleonardb3/Proof-of-Technology/master/DSX/images/jupyter.png" height="150"/>](http://jupyter.org/index.html) [<img src="https://raw.githubusercontent.com/bleonardb3/Proof-of-Technology/master/DSX/images/spark.png" height="150"/>](http://spark.apache.org/)
 
-In this lab, you will use SparkML in IBM Data Science Experience to do data exploration and train and cross-validate a machine learning algorithm to predict survivability based on the Titanic dataset. The results will be loaded into a DB2 Warehouse on Cloud database for use in the next lab.  
+In this lab, you will work with a Jupyter notebook that uses Seaborn to do data exploration on the Titanic data and uses SparkML to train and cross-validate a machine learning algorithm to predict survivability based on the Titanic dataset. The results will be loaded into a DB2 Warehouse on Cloud database for use in the next lab.  
 
 ## Objectives:
 Upon completing the lab, you will know how to:
@@ -12,7 +12,7 @@ Upon completing the lab, you will know how to:
 
 1. Create a DB2 Warehouse on Cloud service.
 1. Create a connection to the DB2 Warehouse on Cloud service
-1. Explore the Titanic dataset using seaborn.
+1. Explore the Titanic dataset using Seaborn.
 1. Conduct feature engineering for algorithm data.
 1. Declare a machine learning model.
 1. Setup the Pipeline for data transofms and training.
@@ -66,7 +66,7 @@ In this lab, you will primarily be working in the Jupyter notebook environment u
 
 ### Step 12.  Give the notebook a name in the `Name` field, for example `Machine learning with SparkML` and optionally you can give it a description.
 
-### Step 13.  In the Notebook URL field, use `https://raw.githubusercontent.com/bleonardb3/Proof-of-Technology/master/DSX/Lab-2/ Categorizing-Vetted-Data.ipynb`
+### Step 13.  In the Notebook URL field, use `https://raw.githubusercontent.com/bleonardb3/Proof-of-Technology/master/DSX/Lab-2/ Titanic%2BStudent%2BNotebook.ipynb`
 
 <img src="https://raw.githubusercontent.com/bleonardb3/Proof-of-Technology/master/DSX/images/lab2-git.png"/>
 
