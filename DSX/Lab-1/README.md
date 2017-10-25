@@ -2,7 +2,7 @@
 
 ## Introduction:
 
-[<img src="https://raw.githubusercontent.com/bleonardb3/Proof-of-Technology/master/DSX/images/DSX.png" height="150"/>](http://datascience.ibm.com/) [<img src="https://raw.githubusercontent.com/bleonardb3/Proof-of-Technology/master/DSX/images/dashdb-logo.png" height="150"/>](https://www.ibm.com/analytics/us/en/technology/cloud-data-services/dashdb/) [<img src="https://raw.githubusercontent.com/bleonardb3/Proof-of-Technology/master/DSX/images/jupyter.png" height="150"/>](http://jupyter.org/index.html)
+[<img src="https://raw.githubusercontent.com/bleonardb3/Proof-of-Technology/master/DSX/images/DSX.png" height="150"/>](http://datascience.ibm.com/)
 
 In this lab, you will use IBM's Watson Machine Learning GUI to train, evaluate, and deploy a Watson Machine Learning model based on the Titanic dataset.  
 
@@ -17,4 +17,4 @@ Upon completing the lab, you will:
 
 ## Instructions:
 
-### Step 1.  Follow the instructions in [Instructions].(https://github.com/bleonardb3/Proof-of-Technology/blob/master/DSX/Lab-1/Instructions.pdf)
+### Step 1.  Follow the instructions in [Instructions](https://github.com/bleonardb3/Proof-of-Technology/blob/master/DSX/Lab-1/Instructions.pdf)
