@@ -54,7 +54,7 @@ After the project gets created, you'll see a screen similar to the following:
 Consider this notebook your *data playground*.  This is the place where you can test out new ideas, connect and fuse various data sets and try out different visualizations.  If you're happy with something in your notebook, then go ahead and make it available to interact with in your app.
 
 ### Step 9.  Click the `app.R` file in the files pane in the lower right of the RStudio IDE
-> <img src="https://raw.githubusercontent.com/bleonardb3/Proof-of-Technology/master/DSX/Lab-3/images/appr Code"/>
+> <img src="https://raw.githubusercontent.com/bleonardb3/Proof-of-Technology/master/DSX/Lab-3/images/appr Code.png"/>
 
 ### Step 10.  Click the `Run App` (green triangle) in the top right of the main panel to run the app.  The app should appear in the Viewer pane in the bottom right corner of the IDE.  If it does not, select the little black downward pointing triangle and set to Run in Viewer Pane.
 > <img src="https://raw.githubusercontent.com/bleonardb3/Proof-of-Technology/master/DSX/Lab-3/images/Run in Viewer Pane.png"/>
