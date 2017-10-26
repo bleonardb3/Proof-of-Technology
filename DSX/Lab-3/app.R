@@ -41,7 +41,7 @@ predicted = as.data.frame(
 predicted$Count <- 1
 predicted$AgeBucket <- cut(predicted$age, breaks=c(0.0, 6.0, 12.0, 18.0, 40.0, 65.0, 80.0, Inf), labels=c(0,1,2,3,4,5,6))
 predicted$FareBucket <- cut(predicted$fare, breaks=c(-Inf, 0.0, 1.0, 2.0, 3.0, 4.0, 5.0, 6.0, 7.0, Inf), labels=c(0,1,2,3,4,5,6,7,8))
-
+predicted$predString <- as.character(predicted$prediction)
 
 # Define UI for application that draws a histogram
 ui <- fluidPage(
@@ -62,7 +62,8 @@ ui <- fluidPage(
       
    # Show a plot of the generated distribution
    mainPanel(
-     plotOutput("titanicPlot")
+     plotOutput("survivalPlot"),
+     plotOutput("predictionPlot")
    )
          
       
@@ -72,11 +73,7 @@ ui <- fluidPage(
 # Define server logic required to draw a histogram
 server <- function(input, output) {
   
-  # Get connection details
- 
   
-  
- 
   # Close the DB connection when the session ends
   #cancel.onSessionEnded <- session$onSessionEnded(function() { idaClose(conn) })
   
@@ -87,15 +84,20 @@ formulaText <- reactive({
 
 # Generate a plot of the requested variable  
 
-output$titanicPlot <- renderPlot({
+output$survivalPlot <- renderPlot({
   
  # qplot(names(input$variable), data = predicted, geom = 'bar')
  ggplot() + geom_bar(aes(y=Count, x = get(formulaText()), fill = survived), data = predicted,
-                      stat="identity") + scale_x_discrete(name=formulaText())
-   
+                      stat="identity") + scale_x_discrete(name=formulaText()) + scale_fill_discrete("Actual")
 })
   
-   
+output$predictionPlot <- renderPlot({
+  
+  # qplot(names(input$variable), data = predicted, geom = 'bar')
+  ggplot() + geom_bar(aes(y=Count, x = get(formulaText()), fill = predString), data = predicted,
+                      stat="identity") + scale_x_discrete(name=formulaText())+scale_fill_discrete("Predicted")
+})
+
    
 }
 
