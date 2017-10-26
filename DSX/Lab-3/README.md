@@ -40,16 +40,16 @@ Upon completing the lab, you will know how to:
 
 After the project gets created, you'll see a screen similar to the following:
 
-> <img src="https://raw.githubusercontent.com/bleonardb3/Proof-of-Technology/master/DSX/Lab-3/images/RStudio-project-created.png"/>
+> <img src="https://raw.githubusercontent.com/bleonardb3/Proof-of-Technology/master/DSX/Lab-3/images/After Clone.png"/>
 
 ### Step 6.  In the files pane in the lower right of the RStudio IDE, click `DSX`, then click `Lab-3`.
 > <img src="https://raw.githubusercontent.com/bleonardb3/Proof-of-Technology/master/DSX/Lab-3/images/RStudio-lab3-files.png"/>
 
-### Step 7.  Click the `connection.R` file and fill in your dashDB connection details.   You can find these from one of the previous labs.   Don't forget to set the value for the titanic.table to TITANIC_PREDICTIONS'.   Save the file.
-> <img src="https://raw.githubusercontent.com/bleonardb3/Proof-of-Technology/master/DSX/Lab-3/images/RStudio-lab3-connection.png"/>
+### Step 7.  Click the `connection.R` file and fill in your dashDB connection details.   You can find these from the previous lab.   Don't forget to set the value for the titanic.table to TITANIC_PREDICTIONS'.   Save the file.
+> <img src="https://raw.githubusercontent.com/bleonardb3/Proof-of-Technology/master/DSX/Lab-3/images/Connections.png"/>
 
 ### Step 8.  Click the `dashConnectAndInteractInR.Rmd` file in the files pane in the lower right of the RStudio IDE and run the cells in sequence from top to bottom in the notebook using the `Run current chunk` (green triangle) button in the top right of each cell.
-> <img src="https://raw.githubusercontent.com/bleonardb3/Proof-of-Technology/master/DSX/Lab-3/images/RStudio-lab3-notebook.png"/>
+> <img src="https://raw.githubusercontent.com/bleonardb3/Proof-of-Technology/master/DSX/Lab-3/images/dashConnectAndInteract.png"/>
 
 Consider this notebook your *data playground*.  This is the place where you can test out new ideas, connect and fuse various data sets and try out different visualizations.  If you're happy with something in your notebook, then go ahead and make it available to interact with in your app.
 
@@ -60,9 +60,9 @@ Consider this notebook your *data playground*.  This is the place where you can 
 > <img src="https://raw.githubusercontent.com/bleonardb3/Proof-of-Technology/master/DSX/Lab-3/images/RStudio-lab3-app-viewer.png"/>
 
 ### Step 11.  Click the little black downward pointing triangle next to the  `Run App` (green triangle) in the top right of the main panel to run the app in another browser window (Run External).
-> <img src="https://raw.githubusercontent.com/bleonardb3/Proof-of-Technology/master/DSX/Lab-3/images/RStudio-lab3-app-external.png"/>
+
 
 ### Step 12.  In the running app, select a graph from the list to display. 
-> <img src="https://raw.githubusercontent.com/bleonardb3/Proof-of-Technology/master/DSX/Lab-3/images/RStudio-lab3-vet-records.png"/>
+> <img src="https://raw.githubusercontent.com/bleonardb3/Proof-of-Technology/master/DSX/Lab-3/images/appr.png"/>
 
 You now have an end-to-end skeleton application that uses the Titanic data, dashDB, SparkML and DSX that you can now flesh out into something truly useful in a short amount of time without having to write a lot of code.
