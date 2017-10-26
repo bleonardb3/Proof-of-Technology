@@ -54,15 +54,17 @@ After the project gets created, you'll see a screen similar to the following:
 Consider this notebook your *data playground*.  This is the place where you can test out new ideas, connect and fuse various data sets and try out different visualizations.  If you're happy with something in your notebook, then go ahead and make it available to interact with in your app.
 
 ### Step 9.  Click the `app.R` file in the files pane in the lower right of the RStudio IDE
-> <img src="https://raw.githubusercontent.com/bleonardb3/Proof-of-Technology/master/DSX/Lab-3/images/RStudio-lab3-shiny-app.png"/>
+> <img src="https://raw.githubusercontent.com/bleonardb3/Proof-of-Technology/master/DSX/Lab-3/images/appr Code"/>
 
 ### Step 10.  Click the `Run App` (green triangle) in the top right of the main panel to run the app.  The app should appear in the Viewer pane in the bottom right corner of the IDE.  If it does not, select the little black downward pointing triangle and set to Run in Viewer Pane.
-> <img src="https://raw.githubusercontent.com/bleonardb3/Proof-of-Technology/master/DSX/Lab-3/images/RStudio-lab3-app-viewer.png"/>
+> <img src="https://raw.githubusercontent.com/bleonardb3/Proof-of-Technology/master/DSX/Lab-3/images/Run in Viewer Pane.png"/>
 
 ### Step 11.  Click the little black downward pointing triangle next to the  `Run App` (green triangle) in the top right of the main panel to run the app in another browser window (Run External).
 
+> <img src="https://raw.githubusercontent.com/bleonardb3/Proof-of-Technology/master/DSX/Lab-3/images/Run in External Window.png"/>
 
 ### Step 12.  In the running app, select a graph from the list to display. 
+
 > <img src="https://raw.githubusercontent.com/bleonardb3/Proof-of-Technology/master/DSX/Lab-3/images/appr.png"/>
 
 You now have an end-to-end skeleton application that uses the Titanic data, dashDB, SparkML and DSX that you can now flesh out into something truly useful in a short amount of time without having to write a lot of code.
