@@ -61,11 +61,10 @@ In this lab, you will primarily be working in the Jupyter notebook environment u
 ### Step 10. Return to the project environment by clicking on the `Projects` tab and then clicking on the project that you set up. 
 <img src="https://raw.githubusercontent.com/bleonardb3/Proof-of-Technology/master/DSX/Lab-2/Images/Projects Tab.png"/>
 
-### Step 11 - Click on the <img src="https://raw.githubusercontent.com/bleonardb3/Proof-of-Technology/master/DSX/Lab-2/Images/OneZero Icon.png"> to view Connections. 
+### Step 11 - Click on the <img src="https://raw.githubusercontent.com/bleonardb3/Proof-of-Technology/master/DSX/Lab-2/Images/OneZero Icon.png"> in the top right corner to view Connections. 
 
 ### Step 12 - Click on the `Connections` tab, click on the checkbox next to the Connection that you just established, and click on the `Apply` button. 
-
-<img src="https://raw.githubusercontent.com/bleonardb3/Proof-of-Technology/master/DSX/Lab-2/Images/Enter Apply Connection to Project.png">
+<img src="https://raw.githubusercontent.com/bleonardb3/Proof-of-Technology/master/DSX/Lab-2/Images/Apply Connection to Project.png">
 
 ### Step 13.  The Connection should now appear in the Data Assets for the project. 
 <img src="https://raw.githubusercontent.com/bleonardb3/Proof-of-Technology/master/DSX/Lab-2/Images/Connection in Data Assets.png">
