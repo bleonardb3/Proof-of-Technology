@@ -61,13 +61,20 @@ In this lab, you will primarily be working in the Jupyter notebook environment u
 ### Step 10. Return to the project environment by clicking on the `Projects` tab and then clicking on the project that you set up. 
 <img src="https://raw.githubusercontent.com/bleonardb3/Proof-of-Technology/master/DSX/Lab-2/Images/Projects Tab.png"/>
 
-### Step 11 - 
+### Step 11 - Click on the img src="https://raw.githubusercontent.com/bleonardb3/Proof-of-Technology/master/DSX/Lab-2/Images/OneZero Icon.png"> to view Connections. 
 
-### Step 11.  Click the `New notebook asset` located at the top of the Notebook Assets section. 
+### Step 12 - Click on the `Connections` tab, click on the checkbox next to the Connection that you just established, and click on the `Apply` button. 
+
+img src="https://raw.githubusercontent.com/bleonardb3/Proof-of-Technology/master/DSX/Lab-2/Images/Enter Apply Connection to Project.png">
+
+### Step 13.  The Connection should now appear in the Data Assets for the project. 
+img src="https://raw.githubusercontent.com/bleonardb3/Proof-of-Technology/master/DSX/Lab-2/Images/Connection in Data Assets.png">
+
+### Step 14.  Click the `New notebook asset` located at the top of the Notebook Assets section. 
 <img src="https://raw.githubusercontent.com/bleonardb3/Proof-of-Technology/master/DSX/Lab-2/Images/New Notebook.png">
 
-### Step 12.  Click the `From URL` tab under `Create Notebook`. Give the notebook a name in the `Name` field, for example `Machine learning with SparkML` and optionally you can give it a description. In the Notebook URL field, use `https://github.com/bleonardb3/Proof-of-Technology/blob/master/DSX/Lab-2/Titanic%2BStudent%2BNotebook.ipynb`. Ensure that there is a `Spark Service` selected, then click the `Create Notebook` button on the bottom right of the screen.
+### Step 15.  Click the `From URL` tab under `Create Notebook`. Give the notebook a name in the `Name` field, for example `Machine learning with SparkML` and optionally you can give it a description. In the Notebook URL field, use `https://github.com/bleonardb3/Proof-of-Technology/blob/master/DSX/Lab-2/Titanic%2BStudent%2BNotebook.ipynb`. Ensure that there is a `Spark Service` selected, then click the `Create Notebook` button on the bottom right of the screen.
 <img src="https://raw.githubusercontent.com/bleonardb3/Proof-of-Technology/master/DSX/Lab-2/Images/Enter Notebook Data.png">
 
-### Step 15.  Follow the instructions in the notebook.
+### Step 16.  Follow the instructions in the notebook.
 <img src="https://raw.githubusercontent.com/bleonardb3/Proof-of-Technology/master/DSX/Lab-2/Images/Notebook Display.png"/>
