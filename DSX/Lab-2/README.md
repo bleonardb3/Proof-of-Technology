@@ -61,6 +61,8 @@ In this lab, you will primarily be working in the Jupyter notebook environment u
 ### Step 10. Return to the project environment by clicking on the `Projects` tab and then clicking on the project that you set up. 
 <img src="https://raw.githubusercontent.com/bleonardb3/Proof-of-Technology/master/DSX/Lab-2/Images/Projects Tab.png"/>
 
+### Step 11 - 
+
 ### Step 11.  Click the `New notebook asset` located at the top of the Notebook Assets section. 
 <img src="https://raw.githubusercontent.com/bleonardb3/Proof-of-Technology/master/DSX/Lab-2/Images/New Notebook.png">
 
